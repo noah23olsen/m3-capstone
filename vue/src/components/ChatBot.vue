@@ -627,8 +627,6 @@ video {
   list-style-type: none;
   background-color: white;
 }
-#videoID{
-}
 .response-box,
 .request-box {
   max-width: 80%;
